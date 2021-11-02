@@ -1,0 +1,2 @@
+# Banking-Management-System
+“BANK MANAGEMENT SYSTEM”. This project is useful for the bank employees as well as the customers to keep a track of account details. The emerging of digital system made information available on finger tips. By automating the transactions, one can view the details as and when required in no time. This project emphases on creation of new customer, managing the existing account holders in the bank, by making digital system one can generate daily reports, monthly reports and annual reports which can enhance the system.
