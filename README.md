@@ -17,7 +17,7 @@ systems, theory and software development.
 or applied Computer Science project, requiring writing 
 and presentation skills which exemplify scholarly style in 
 computer science.
-### Technologies used
+## Technologies used
 
 - Python 3
 - MySQL
